@@ -1,0 +1,12 @@
+.docx_extract/
+
+backend/.venv/
+backend/__pycache__/
+backend/app/**/__pycache__/
+backend/hcp_crm.db
+
+frontend/node_modules/
+frontend/dist/
+
+.env
+.DS_Store
