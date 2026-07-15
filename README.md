@@ -84,7 +84,3 @@ VITE_API_BASE_URL=http://localhost:8000
    - `Analyze sentiment: Doctor was neutral but asked for more safety evidence`
    - `Edit interaction 1 sentiment positive outcome Doctor agreed to formulary discussion`
 
-## Assignment Notes
-
-The provided document requires React, Redux, FastAPI, LangGraph, Groq, SQL storage, and the Inter font. The Google Drive video link in the assignment returned an HTML access/download page in this environment, so this implementation follows the written task and embedded screen mockup.
-"# ai-crm-hcp-module" 
